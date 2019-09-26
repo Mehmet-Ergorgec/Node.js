@@ -1,17 +1,1 @@
-[
-  {
-    "description": "Prepare for next class",
-    "id": "c0339f04-5308-4f47-8aff-6e9c9137458a",
-    "done": true
-  },
-  {
-    "description": "Do homework NodeJs Week3",
-    "id": "03181392-a280-4ce1-9939-8c2d7935368b",
-    "done": true
-  },
-  {
-    "description": "Plan your next week",
-    "id": "e60fd89a-0b25-4767-ae84-298c06e70e0c",
-    "done": false
-  }
-]
+[{"description":"Prepare for next class","id":"c0339f04-5308-4f47-8aff-6e9c9137458a","done":true},{"description":"Do homework NodeJs Week3","id":"03181392-a280-4ce1-9939-8c2d7935368b","done":true},{"description":"Plan your next week","id":"e60fd89a-0b25-4767-ae84-298c06e70e0c","done":false},{"description":"Plan your next year","id":"ba790d5a-e510-408f-8341-5ec82e6b8fb0","done":false}]
